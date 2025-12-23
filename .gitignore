@@ -1,0 +1,14 @@
+# Qt build folders
+build/
+debug/
+release/
+
+# Executables
+*.exe
+
+# Runtime generated files
+backend/applicants.csv
+
+# Qt Creator user files
+*.user
+*.autosave
